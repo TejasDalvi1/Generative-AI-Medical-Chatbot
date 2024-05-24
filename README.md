@@ -2,7 +2,7 @@
 # Generative-AI-Medical-Chatbot
 ===============================================================================
 
-##Tech stack:
+## Tech stack:
         (1)Python
         (2)Langchain
         (3)Flask
